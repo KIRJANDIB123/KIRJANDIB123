@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KIRJANDIB123
+- 👋 Hi, I’m QUIR
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning some of web developing language such as react
 - 📫 How to reach me just hit me up on my social acc
